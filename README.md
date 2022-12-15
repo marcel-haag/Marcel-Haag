@@ -1,9 +1,5 @@
 <!-- DYNAMIC DevCard from Github Actions -->
-<a href="https://app.daily.dev/Cel"><img src="https://github.com/Marcel-Haag/Marcel-Haag/blob/master/devcard.svg" width="400" alt="Marcel Haag's Dev Card"/></a>
-
-<!-- STATIC DevCard
-<a href="https://app.daily.dev/Cel"><img src="https://api.daily.dev/devcards/65f365361e074276925cd7fc27251541.png?r=40i" width="400" alt="Marcel Haag's Dev Card"/></a>
--->
+<a href="https://app.daily.dev/Cel"><img src="https://github.com/Marcel-Haag/Marcel-Haag/blob/main/devcard.svg" width="400" alt="Marcel Haag's Dev Card"/></a>
 
 <!--
 ### Hi there 👋
