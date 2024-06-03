@@ -1,5 +1,5 @@
 <!-- DYNAMIC DevCard from Github Actions -->
-<a href="https://app.daily.dev/Cel"><img src="https://github.com/Marcel-Haag/Marcel-Haag/blob/main/devcard.svg" width="400" alt="Marcel Haag's Dev Card"/></a>
+<a href="https://app.daily.dev/cel"><img src="https://api.daily.dev/devcards/v2/Heud8qGuIuW51Hgs6rYJe.png?r=w63" width="356" alt="Marcel Haag's Dev Card"/></a>
 
 <!--
 ### Hi there 👋
