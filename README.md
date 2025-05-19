@@ -1,5 +1,10 @@
 <!-- DYNAMIC DevCard from Github Actions -->
-<a href="https://app.daily.dev/cel"><img src="https://api.daily.dev/devcards/v2/Heud8qGuIuW51Hgs6rYJe.png?r=w63" width="356" alt="Marcel Haag's Dev Card"/></a>
+
+<!-- Horizontal DevCard -->
+<a href="https://app.daily.dev/cel"><img src="https://api.daily.dev/devcards/v2/Heud8qGuIuW51Hgs6rYJe.png?type=wide&r=v3y" width="652" alt="Marcel Haag's Dev Card"/></a>
+<!-- Vertical DevCard 
+<a href="https://app.daily.dev/cel"><img src="https://api.daily.dev/devcards/v2/Heud8qGuIuW51Hgs6rYJe.png?type=default&r=v3y" width="356" alt="Marcel Haag's Dev Card"/></a>
+-->
 
 <!--
 ### Hi there 👋
